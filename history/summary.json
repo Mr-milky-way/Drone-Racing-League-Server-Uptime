@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.drl-game.com.ico",
     "slug": "main-server",
     "status": "up",
-    "uptime": "71.83%",
-    "uptimeDay": "71.83%",
-    "uptimeWeek": "71.83%",
-    "uptimeMonth": "71.83%",
-    "uptimeYear": "71.83%",
+    "uptime": "100%",
+    "uptimeDay": "100%",
+    "uptimeWeek": "100%",
+    "uptimeMonth": "100%",
+    "uptimeYear": "100%",
     "time": 241,
     "timeDay": 241,
     "timeWeek": 241,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2026-05-01": 4
+      "2026-05-01": 0
     }
   }
 ]

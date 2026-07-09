@@ -23,6 +23,8 @@ on:
   workflow_dispatch:
 jobs:
   release:
+    env:
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     name: Build and deploy site
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, '[skip ci]')"

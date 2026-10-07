@@ -13,7 +13,11 @@
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
-
+name: Setup Node.js 20
+uses: actions/setup-node@v4
+with: 
+  node-version: 20
+  
 name: Uptime CI
 on:
   schedule:

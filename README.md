@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Mr-Milky-Way.github.io/Drone-Racing-League-Server-Uptime): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://Mr-Milky-Way.github.io/Drone-Racing-League-Server-Uptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Mr-Milky-Way](https://Mr-Milky-Way.github.io/Drone-Racing-League-Server-Uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
